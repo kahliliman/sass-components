@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 100%;
+  line-height: 1;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Roboto";
+  box-sizing: border-box;
+  background-color: #e2e1e0;
+}
